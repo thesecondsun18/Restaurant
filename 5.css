@@ -1,0 +1,111 @@
+#b1
+{
+ text-decoration: none;
+ color: black;
+ line-height: 1.7;
+font-size: 18px;
+font-family: sans;
+}
+.s
+{
+	text-decoration-color: red;
+}
+#f5
+{
+	font-size: 47px;
+ font-family: serif;
+}
+.c4
+{
+  background-color: #fd0e35;
+  padding: 15px 30px;
+  width: 120px;
+  border-radius: 25px;
+  text-align:center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.r
+{
+	color: white;
+	text-decoration: none;
+}
+#o
+{
+	width: 10%;
+}
+
+.f1
+{
+	display: flex;
+	margin: 20px 10px;
+}
+#h
+{
+	font-size: 40px;
+	font-family: sans;
+}
+#t
+{
+	padding: 30px;
+	width: 100%;
+	padding-top: 20px;
+}
+.p
+{
+	font-size: 70px;
+	 font-family: georgia;
+}
+.gallery
+{
+	display: flex;
+    border-radius: 2px;
+
+}
+figure
+{
+	width: 100%;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;  
+   margin: 6px;
+  border: 1px solid white;
+  border-radius:12px;
+ 
+  width: 180px;
+  padding-bottom: 40px;
+
+}
+#cc
+{
+	color: green
+	background-color: blue;
+	height: 40px;
+	padding-top: 50px;
+	float: right;
+	padding-right:  190px;
+}
+.K
+{
+	text-align: left;
+	width: 150px;
+	
+}
+img
+{
+  padding:10px;
+  border-radius: 50%;
+}
+figcaption
+{
+	font-size: 10px;
+  text-align: center;
+font-family: sans-serif;
+
+}
+hr.new2
+{
+	border:1px solid #fd0e35;
+	width: 50px;
+    float: left;
+    margin-bottom: 250px;
+
+}
